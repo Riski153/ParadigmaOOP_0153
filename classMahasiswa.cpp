@@ -10,8 +10,7 @@ public: // akses modifier
     string nama;
     float nilai;
 
-    void printData() 
-    {
+    void printData() {
         cout << "NIM   = " << NIM << endl;
         cout << "Nama  = " << nama << endl;
         cout << "Nilai = " << nilai << endl;
