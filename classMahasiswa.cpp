@@ -24,7 +24,7 @@ int main()
 
     mhs.NIM = 2025;
     mhs.nama = "Kevin";
-    mhs.nilai = 75.5;
+    mhs.nilai = 80.0;
 
     mhs.printData();
 }
