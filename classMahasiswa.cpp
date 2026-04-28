@@ -17,3 +17,8 @@ public: // akses modifier
         cout << "Nilai = " << nilai << endl;
     }
 };
+
+int main()
+{
+    
+}
