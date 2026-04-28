@@ -22,7 +22,7 @@ int main()
 {
     Mahasiswa mhs; // deklarasi objek
 
-    mhs.NIM = 2000;
+    mhs.NIM = 2025;
     mhs.nama = "Kevin";
     mhs.nilai = 75.5;
 
