@@ -21,4 +21,8 @@ public: // akses modifier
 int main()
 {
     Mahasiswa mhs; // deklarasi objek
+
+    mhs.NIM = 2000;
+    mhs.nama = "Kevin";
+    mhs.nilai = 75.5;
 }
