@@ -17,8 +17,7 @@ public: // akses modifier
     }
 };
 
-int main()
-{
+int main(){
     Mahasiswa mhs; // deklarasi objek
 
     mhs.NIM = 2025;
