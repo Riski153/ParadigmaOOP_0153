@@ -20,5 +20,5 @@ public: // akses modifier
 
 int main()
 {
-    
+    Mahasiswa mhs; // deklarasi objek
 }
